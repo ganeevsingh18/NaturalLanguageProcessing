@@ -1,0 +1,230 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarify",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -12.072205543518066
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁also",
+                "▁give",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -14.248456001281738
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁also",
+                "▁clarification",
+                "▁on",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -14.57634449005127
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁also",
+                "▁clarification",
+                "▁on",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -15.416626930236816
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarify",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁that",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -17.218677520751953
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁also",
+                "▁give",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁that",
+                "▁were",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -17.456684112548828
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁also",
+                "▁give",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁that",
+                "▁were",
+                "▁made",
+                "▁by",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -17.5618896484375
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁also",
+                "▁give",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁that",
+                "▁have",
+                "▁taken",
+                "▁place",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -18.1502628326416
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁also",
+                "▁give",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁that",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -18.828210830688477
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁also",
+                "▁give",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁that",
+                "▁have",
+                "▁taken",
+                "▁place",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -18.940731048583984
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjUtMTAtMDZUMDU6MzU6MDEuMjM2OTE4IiwgImgiOiAiZ2FuZWV2LVByZWRhdG9yLVBIMzE1LTU1IiwgInUiOiAiZ2FuZWV2In0="
+}

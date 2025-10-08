@@ -1,0 +1,221 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -11.918863296508789
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁cases",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -12.255983352661133
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁also",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -13.412300109863281
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁wish",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -13.852531433105469
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "▁of",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.027446746826172
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁wish",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁cases",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.188511848449707
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁cases",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "▁of",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.355393409729004
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "▁of",
+                "▁this",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.56622314453125
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁also",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "▁of",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -15.54541301727295
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁wish",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "▁of",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -16.42622184753418
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjUtMTAtMDZUMDU6MzM6MzcuODk4OTcyIiwgImgiOiAiZ2FuZWV2LVByZWRhdG9yLVBIMzE1LTU1IiwgInUiOiAiZ2FuZWV2In0="
+}

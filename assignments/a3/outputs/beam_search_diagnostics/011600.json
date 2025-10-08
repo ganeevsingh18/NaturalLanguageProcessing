@@ -1,0 +1,248 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁that",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -10.323089599609375
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁that",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -10.392658233642578
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁that",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -10.455329895019531
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁that",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -10.523736953735352
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁that",
+                "▁had",
+                "▁been",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -10.968748092651367
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁that",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -11.224234580993652
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁that",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -11.33941650390625
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁that",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁dur",
+                "ing",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -11.65024185180664
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁that",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁at",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -11.717041969299316
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁that",
+                "▁have",
+                "▁been",
+                "▁made",
+                "▁dur",
+                "ing",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -11.815363883972168
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjUtMTAtMDZUMDU6NDY6NTEuNDg0MjY0IiwgImgiOiAiZ2FuZWV2LVByZWRhdG9yLVBIMzE1LTU1IiwgInUiOiAiZ2FuZWV2In0="
+}

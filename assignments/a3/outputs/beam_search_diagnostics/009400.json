@@ -1,0 +1,252 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁raised",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -10.389662742614746
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁raised",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -11.037687301635742
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁raised",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -11.662604331970215
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁raised",
+                "▁in",
+                "▁this",
+                "▁conference",
+                "."
+            ],
+            "score": -12.055150985717773
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁raised",
+                "▁in",
+                "▁this",
+                "▁meeting",
+                "."
+            ],
+            "score": -12.262555122375488
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁raised",
+                "▁in",
+                "▁this",
+                "▁conference",
+                "."
+            ],
+            "score": -12.662498474121094
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁raised",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -12.702425956726074
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁raised",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "▁on",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "."
+            ],
+            "score": -16.48640251159668
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁raised",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "▁on",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "."
+            ],
+            "score": -16.77741813659668
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁raised",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "▁on",
+                "▁the",
+                "▁basis",
+                "▁of",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -18.089462280273438
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjUtMTAtMDZUMDU6NDM6MDQuMjU2NTE3IiwgImgiOiAiZ2FuZWV2LVByZWRhdG9yLVBIMzE1LTU1IiwgInUiOiAiZ2FuZWV2In0="
+}

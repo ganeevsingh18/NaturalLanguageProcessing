@@ -1,0 +1,231 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁there",
+                "▁was",
+                "▁also",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁in",
+                "▁the",
+                "▁present",
+                "▁meeting",
+                "."
+            ],
+            "score": -16.523056030273438
+        },
+        {
+            "hypothesis": [
+                "▁some",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁were",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -17.072561264038086
+        },
+        {
+            "hypothesis": [
+                "▁some",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁were",
+                "▁made",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -17.197725296020508
+        },
+        {
+            "hypothesis": [
+                "▁some",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁were",
+                "▁made",
+                "▁by",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "."
+            ],
+            "score": -18.10983657836914
+        },
+        {
+            "hypothesis": [
+                "▁some",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁were",
+                "▁made",
+                "▁by",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "."
+            ],
+            "score": -18.134016036987305
+        },
+        {
+            "hypothesis": [
+                "▁some",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁were",
+                "▁made",
+                "▁by",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "."
+            ],
+            "score": -18.399354934692383
+        },
+        {
+            "hypothesis": [
+                "▁some",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁were",
+                "▁made",
+                "▁by",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "."
+            ],
+            "score": -18.40875816345215
+        },
+        {
+            "hypothesis": [
+                "▁some",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁were",
+                "▁made",
+                "▁by",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -21.274349212646484
+        },
+        {
+            "hypothesis": [
+                "▁some",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁were",
+                "▁made",
+                "▁by",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -21.36874008178711
+        },
+        {
+            "hypothesis": [
+                "▁some",
+                "▁of",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁were",
+                "▁made",
+                "▁by",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -21.420970916748047
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjUtMTAtMDZUMDU6MzE6MTMuMjIxNTU4IiwgImgiOiAiZ2FuZWV2LVByZWRhdG9yLVBIMzE1LTU1IiwgInUiOiAiZ2FuZWV2In0="
+}

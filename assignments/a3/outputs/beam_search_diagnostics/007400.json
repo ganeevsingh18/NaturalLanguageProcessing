@@ -1,0 +1,237 @@
+{
+    "example_source": [
+        "▁我还",
+        "澄清",
+        "了",
+        "在该",
+        "会议上",
+        "提出的",
+        "若干",
+        "事项",
+        "。"
+    ],
+    "example_target": [
+        "<s>",
+        "▁i",
+        "▁was",
+        "▁able",
+        "▁to",
+        "▁provide",
+        "▁clarification",
+        "▁on",
+        "▁some",
+        "▁of",
+        "▁the",
+        "▁matters",
+        "▁which",
+        "▁were",
+        "▁raised",
+        "▁at",
+        "▁that",
+        "▁meeting",
+        ".",
+        "</s>"
+    ],
+    "hypotheses": [
+        {
+            "hypothesis": [
+                "▁i",
+                "▁should",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -12.304239273071289
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁should",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁at",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -12.540294647216797
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁would",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁issues",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -12.552541732788086
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁should",
+                "▁also",
+                "▁like",
+                "▁to",
+                "▁clarify",
+                "▁the",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -12.566383361816406
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁to",
+                "▁be",
+                "▁presented",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -12.760918617248535
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁to",
+                "▁be",
+                "▁presented",
+                "▁in",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -13.305745124816895
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁to",
+                "▁be",
+                "▁presented",
+                "▁by",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -13.45385456085205
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁to",
+                "▁be",
+                "▁presented",
+                "▁in",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -13.581268310546875
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁to",
+                "▁be",
+                "▁presented",
+                "▁by",
+                "▁the",
+                "▁conference",
+                "."
+            ],
+            "score": -14.0495023727417
+        },
+        {
+            "hypothesis": [
+                "▁i",
+                "▁also",
+                "▁have",
+                "▁also",
+                "▁clarified",
+                "▁a",
+                "▁number",
+                "▁of",
+                "▁matters",
+                "▁to",
+                "▁be",
+                "▁presented",
+                "▁by",
+                "▁the",
+                "▁meeting",
+                "."
+            ],
+            "score": -14.125248908996582
+        }
+    ],
+    "diagnostic_info": "eyJ0IjogIjIwMjUtMTAtMDZUMDU6Mzk6MzUuNjkzMTczIiwgImgiOiAiZ2FuZWV2LVByZWRhdG9yLVBIMzE1LTU1IiwgInUiOiAiZ2FuZWV2In0="
+}
